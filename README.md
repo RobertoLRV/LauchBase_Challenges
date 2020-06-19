@@ -11,12 +11,12 @@
 <p align="center">
 
   <a href="https://abnerlago.com">
-    <img alt="Made by Abner Lago" src="https://img.shields.io/badge/made%20by-Abner Lago-%23F7DF1E">
+    <img alt="Made by Roberto Luiz" src="https://www.linkedin.com/in/roberto-luiz-45616a139/">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
 
-  <a href="https://github.com/AbnerLago/DesafiosLaunchbase/stargazers">
+  <a href="https://github.com/RobertoLRV/LauchBase_Fase2_Desafios">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/AbnerLago/DesafiosLaunchbase?style=social">
   </a>
 </p>
