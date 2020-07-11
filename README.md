@@ -17,6 +17,6 @@
   
 
   <a href="https://github.com/RobertoLRV/LauchBase_Fase2_Desafios">
-    <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+    <img alt="GitHub" src="https://img.shields.io/badge/Git-Hub-%23F8952D">
   </a>
 </p>
