@@ -2,9 +2,6 @@
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="270px" />
 </h1>
 
-<h3 align="center">
-  Desafios: Introdução à programação WEB
-</h3>
 
 <blockquote align="center">“Faça dos seus sonhos a inspiração que precisa para os realizar!”</blockquote>
 
