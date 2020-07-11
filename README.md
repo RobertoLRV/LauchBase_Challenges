@@ -17,6 +17,6 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
 
   <a href="https://github.com/RobertoLRV/LauchBase_Fase2_Desafios">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/AbnerLago/DesafiosLaunchbase?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
