@@ -11,12 +11,12 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/roberto-luiz-45616a139/">
-    <img alt="Made by Roberto Luiz" src="https://img.shields.io/badge/made%20by-Roberto Luiz-%23F8952D">
+    <img alt="Made by Roberto Luiz" src="https://img.shields.io/badge/Made%20by-Roberto Luiz-%23F8952D">
   </a>
 
   
 
   <a href="https://github.com/RobertoLRV/LauchBase_Fase2_Desafios">
-    <img alt="GitHub" src="https://img.shields.io/badge/Git-Hub-%23F8952D">
+    <img alt="GitHub" src="https://img.shields.io/badge/Repository-GitHub-%23F8952D">
   </a>
 </p>
