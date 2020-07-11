@@ -6,7 +6,7 @@
   Desafios: Introdução à programação WEB
 </h3>
 
-<blockquote align="center">“Faça dos seus sonhos a inspiração que precisa para os realizar.”!</blockquote>
+<blockquote align="center">“Faça dos seus sonhos a inspiração que precisa para os realizar!”</blockquote>
 
 <p align="center">
 
