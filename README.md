@@ -80,11 +80,13 @@ To run the project **challenges-fullstack** it is necessary to navigate to the f
 ```bash
   npm start
 ```
-> The project will default to port 5000
+> The project will default to port 3000
 
 **Acess in your browser:**
 ```
-localhost:5000
+localhost:3000
 ```
 
 ---
+
+Being developed :purple_heart: exclusively by [***Roberto Luiz***](https://github.com/RobertoLRV)
