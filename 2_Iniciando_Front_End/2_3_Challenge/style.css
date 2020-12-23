@@ -99,8 +99,15 @@ header{
 }
 
 .card__content,
-.card__info {
-    padding: 24px;
+.card__info{
+    padding: 24px;    
+}
+
+.card__info{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: relative;
+    bottom: 0;
 }
 
 .card__time{
@@ -108,5 +115,65 @@ header{
     filter: brightness(90%);
     padding: 5px 20px;
     border-radius: 20px;
-    text-align: center;t
+    text-align: center;
 }
+/*=====================  MODAL   ========================*/
+.modal-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.modal {
+    background-color: white;
+    width: 60%;
+    height: 90%;
+    margin: 5vh auto;
+    position: relative;
+}
+
+
+.modal .maximize-modal{
+    color: black;
+    position: absolute;
+    right: 32px;
+    top: 11px;
+    cursor: pointer;
+}
+
+.modal .close-modal{
+    color: black;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    cursor: pointer;
+}
+
+/* =================  MODAL ACTIVE ================ */
+.modal-overlay.active{
+    opacity: 1;
+    visibility: visible;
+}
+
+iframe{
+    width: 100%;
+    height: 90%;
+    position: absolute;
+    top: 5%;
+}
+
+/* =================  MODAL MAXIMIZE ================ */
+
+.modal.maximize {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    position: relative;
+}
+
+/* =================  MODAL MINIMIZE ================ */
