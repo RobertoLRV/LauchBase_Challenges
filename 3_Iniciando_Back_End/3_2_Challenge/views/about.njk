@@ -1,0 +1,24 @@
+{% extends "layout.njk" %}
+
+ {% block content %}
+
+
+        <div id="wrapper">
+            <img src="{{about.avatar_url}}" alt="Logo Rocketseat">
+            <h1>{{about.name}}</h1>
+            <p>{{about.role}}</p>
+            <ul>
+                {% for language in about.description %}
+                    <li>{{language.name}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div id="links-footer" class="links">
+            {% for link in about.links %}
+                <a href="{{link.url}}" target="_Blank">{{link.name}}</a>
+            {% endfor %}
+            
+
+        </div>
+{% endblock %}
